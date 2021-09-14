@@ -2,13 +2,9 @@
 
 Riquierements:
 
-![](https://github.com/Dcruzjs/profilePage-Core/blob/master/mockUp.png)
-![](https://github.com/Dcruzjs/profilePage-Core/blob/master/mockUp2.png)
+![](https://github.com/Dcruzjs/dojoWeather-Practice/blob/master/assets/dojoweather-mockup.png)
 
-[LIVE DEMO](https://dcruzjs.github.io/profilePage-Core/ "DEMO")
-
-Additional Bonus:
-The list of connections is also updated with the connection that you accept.
+[LIVE DEMO](https://dcruzjs.github.io/dojoWeather-Practice/ "DEMO")
 
 In this project are applied topics like:
 
