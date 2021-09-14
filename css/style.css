@@ -166,7 +166,8 @@ section > .container {
   color: var(--low-ft-color);
 }
 .low::after,
-.high::after {
+.high::after,
+i {
   content: "°";
 }
 .cookies {
